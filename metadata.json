@@ -1,0 +1,6 @@
+{
+  "name": "AQL Inspector Pro",
+  "description": "A standalone desktop-like application for generating AQL inspection plans based on ISO 2859-1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
